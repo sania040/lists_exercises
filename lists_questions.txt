@@ -1,0 +1,20 @@
+# Question 3: Create an empty list called my_list.Add integers 1 to 5 to the list.Print the list...
+# Question 4: Create two lists: list1 with elements [1, 2, 3] and list2 with elements [4, 5, 6].Concatenate the two lists and store the result in a new list called combined_list.Print combined_list.
+# Question 5: Create a list called numbers with elements [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].Print the first five elements using slicing.Print the last three elements using negative indexing.
+# Question 6: Create a list called squares that contains the squares of numbers from 1 to 5 using list comprehension.Create a list called even_squares that contains the squares of even numbers from 1 to 10 using list comprehension.
+# Question 7: Create a list called fruits with elements ['apple', 'banana', 'cherry'].Add 'orange' to the end of the list.Remove 'banana' from the list.Print the modified list.
+# QUestion 8: Create a list called numbers with elements [3, 1, 4, 1, 5, 9, 2, 6, 5].Find the length of the list.Find the sum of the elements in the list.Find the maximum and minimum values in the list.
+# Question 9: Create a nested list called matrix with two sublists: [1, 2, 3] and [4, 5, 6].Access and print the element 5 from the matrix.
+# Question 10: Create a list called random_numbers with elements [7, 2, 5, 1, 8, 3].Sort the list in ascending order.Sort the list in descending order.Print the sorted lists.
+# Question 11: Create a list called names with elements ['Alice', 'Bob', 'Charlie'].Use a for loop to print each name in the list.
+# Question 12: Create a list called colors with elements ['red', 'green', 'blue'].Check if 'green' is present in the list and print the result.
+# Question 13: Create a list called temperatures with daily temperatures for a week. Calculate and print the average temperature.
+# Question 14: Create a list called grades with student grades. Use list comprehension to create a new list named passing_grades that contains only grades greater than or equal to 60.
+# Question 15: Given a list of numbers, create a new list called squared_numbers containing the squares of each number using a for loop.
+# Question 16: Create a list called unique_chars that contains only unique characters from the string "programming".
+# Question 17: Create a list called mixed_types with elements of different types, such as integers, strings, and booleans. Use list comprehension to create a new list containing only the integers.
+# Question 18: Given a list of words, create a new list called long_words that contains words with more than three characters.
+# Question 19: Create a list called currencies with elements ['USD', 'EUR', 'JPY']. Use a for loop to print each currency along with its position in the list.
+# Question 20: Create a list called `even_numbers` containing even numbers from 1 to 20 using list comprehension.
+# Question 21:Create a list called `odd_squares` containing the squares of odd numbers from 1 to 10 using list comprehension.
+# Question 22:Given two lists `list1 = [1, 2, 3]` and `list2 = [4, 5, 6]`, concatenate them and then reverse the order of the elements.
